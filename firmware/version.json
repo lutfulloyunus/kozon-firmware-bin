@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "bin": "firmware/kozon.bin",
-  "size": 1368416,
-  "md5": "b5042d3b7e4656222acd37f281fae6c7"
+  "size": 1368640,
+  "md5": "4abe3e2267be8ecbdabfed3401e26d07"
 }
